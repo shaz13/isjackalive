@@ -7,4 +7,4 @@ This notebook is my one of my attempt to study the dataset, nit picking the feat
 
 
 
-NBViewer link - https://nbviewer.jupyter.org/github/shaz13/isjackalive-/blob/master/Is%20Jack%20alive.ipynb
+NBViewer link - https://nbviewer.jupyter.org/github/shaz13/isjackalive/blob/master/Is%20Jack%20alive.ipynb
