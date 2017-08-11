@@ -3,6 +3,12 @@ by Mohammad Shahebaz
 
 This notebook is my one of my attempt to study the dataset, nit picking the features and predict the outcome using **Logistic Regression Model** and **Random Forests** along account of taking various **random states** in considerations.
 
+
+### Todo
+- Feature Engineering
+- Dummy Variables
+- Adopt different Model
+
 ![Titanic](https://github.com/shaz13/isjackalive-/blob/master/jack.jpg)
 
 
